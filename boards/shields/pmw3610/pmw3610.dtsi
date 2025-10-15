@@ -3,5 +3,11 @@
         zmk,kscan = &kscan0;
     };
     
-    kscan0: kscan {};
+    kscan0: kscan {
+        compatible = "zmk,kscan-mock";
+        label = "KSCAN";
+        columns = <0>;
+        rows = <0>;
+        events = <>;
+    };
 };
