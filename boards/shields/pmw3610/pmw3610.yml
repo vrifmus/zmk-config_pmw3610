@@ -1,0 +1,10 @@
+file_format: '1'
+id: pimtb
+name: PimTB
+type: shield
+url: https://github.com/vrifmus/zmk-config_pmw3610
+requires: [nice_nano_v2]
+features:
+    - keys
+siblings:
+    - pmw3610

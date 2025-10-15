@@ -1,0 +1,7 @@
+if SHIELD_PMW3610
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "PMW 3610"
+
+endif
