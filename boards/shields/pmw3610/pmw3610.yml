@@ -1,6 +1,6 @@
 file_format: '1'
-id: pimtb
-name: PimTB
+id: pmw3610
+name: PMW3610
 type: shield
 url: https://github.com/vrifmus/zmk-config_pmw3610
 requires: [nice_nano_v2]
